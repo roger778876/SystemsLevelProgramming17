@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int problem1() {
+int problem1(){
     int output = 0;
     int mult3 = 3;
     int mult5 = 5;
@@ -14,10 +14,6 @@ int problem1() {
         }
     }
     return output;
-}
-
-int problem6() {
-    
 }
 
 int main(){
